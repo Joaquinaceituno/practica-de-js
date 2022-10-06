@@ -1,2 +1,2 @@
-var numero = 4;
-console.log(numero);
+//#region nombres
+var nombre1 = "Mariela";
