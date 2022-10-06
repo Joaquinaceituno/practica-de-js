@@ -8,4 +8,5 @@ console.log(nombre3);
 //#fin region nombres
 //# region array y cuenta matematica
 var num1 = 0;
-var arraynum2 = [10]
+var arraynum2 = [10];
+var num3 = 5;
