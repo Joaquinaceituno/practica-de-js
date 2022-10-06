@@ -11,3 +11,6 @@ var num1 = 0;
 var arraynum2 = [10];
 var num3 = 5;
 var num4 = 10;
+for(num1 of arraynum2){
+    
+}
