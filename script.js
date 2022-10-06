@@ -5,3 +5,6 @@ const nombre2 = 'Alejo';
 console.log(nombre2);
 let nombre3 = `Mya`;
 console.log(nombre3);
+//#fin region nombres
+//# region array y cuenta matematica
+var num1 = 0;
