@@ -13,4 +13,5 @@ var num3 = 5;
 var num4 = 10;
 for(num1 of arraynum2){
     $suma=num3 + num4;
+    console.log($suma);
 }
